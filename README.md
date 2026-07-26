@@ -8,7 +8,7 @@
 
 ---
 
-## Features
+## Features.
 
 ### Real-time Monitoring
 
@@ -18,7 +18,7 @@
 - **Response Time Sparklines** - SVG charts from real data
 - **Live Indicator** - Green "Live" badge when WebSocket is connected, auto-reconnects
 
-### Authentication
+### Authentication.
 
 - **Sign Up / Sign In** - Tabbed login page, real user accounts stored in DB
 - **bcrypt Hashed Passwords** - No plaintext, uses `bcrypt.hashpw()` + salt
