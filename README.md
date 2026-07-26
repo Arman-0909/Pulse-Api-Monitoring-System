@@ -198,4 +198,4 @@ python-dotenv, psycopg2-binary
 
 MIT
 
----
+-----
